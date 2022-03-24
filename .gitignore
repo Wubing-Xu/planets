@@ -1,2 +1,4 @@
 spacefile.txt
 .Rproj.user
+*.dat
+results/
