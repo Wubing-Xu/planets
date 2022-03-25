@@ -1,0 +1,494 @@
+$ history
+    1  pwd
+    2  ls
+    3  ls ~a
+    4  ls -a
+    5  ls -a Documents/
+    6  cd Dropbox
+    7  cd C:/Dropbox
+    8  pwd
+    9  cd C:/Dropbox
+   10  pwd
+   11  ls
+   12  cd iDiv
+   13  pwd
+   14  cd ../
+   15  pwd
+   16  cd iDiv
+   17  cd
+   18  cd iDiv
+   19  mkdir github
+   20  ls()
+   21  ls
+   22  cd c:/dropbox
+   23  ls
+   24  mkdir github
+   25  toch terminal-101.txt
+   26  totch terminal-101.txt
+   27  touch terminal-101.txt
+   28  history
+   29  mkdir github
+   30  mkdir gitintro
+   31  cd gitintro
+   32  touch terminal-101.text
+   33  clear
+   34  history
+   35  git config -- global user.name "Wubing Xu"
+   36  git config -- global user.email "wubing,xu@idiv.de"
+   37  git config --global user.name "Wubing Xu"
+   38  git config --global user.email "wubing,xu@idiv.de"
+   39  git config --global user.email "wbingxu@gmail.com"
+   40  git config list
+   41  git config ls
+   42  git config --ls
+   43  git config --list
+   44  git config --global cor.editor "mano -w"
+   45  git config --list
+   46  git config --global cor.editor "nano -w"
+   47  git config --list
+   48  git config --help
+   49  git help
+   50  cd ~
+   51  cd Desktop
+   52  mdfir planets
+   53  mkfir planets
+   54  cd planets
+   55  mkdir planets
+   56  cd planets
+   57  git init
+   58  ls -a
+   59  git checkout -b main
+   60  git status
+   61  mkdir moons/
+   62  git init
+   63  nano mars.txt
+   64  ls
+   65  git status
+   66  git add mars.txt
+   67  git status
+   68  git commit -m "Start notes on Mars as a base"
+   69  git status
+   70  git log
+   71  git status
+   72  touch "tst.text"
+   73  rm "tst.text"
+   74  nano mars.txt
+   75  git status
+   76  git add mars.txt
+   77  git status
+   78  git commit -m "add concerns"
+   79  git status
+   80  git diff
+   81  nano "mars.txt"
+   82  git log
+   83  git log oneline
+   84  git log --oneline
+   85  git diff HEAD
+   86  git diff HEAD-1
+   87  git status
+   88  git add "mars.txt"
+   89  git status
+   90  git commit -m "further concerns"
+   91  git status
+   92  git diff -HEAR
+   93  git diff HEAR
+   94  git diff HEAD
+   95  git diff HEAD-1
+   96  git log
+   97  cat mars.txt
+   98  git log
+   99  git checkout HEAD-1
+  100  git checkout HEAD-1 mars.txt
+  101  git checkout HEAD diff1 mars.txt
+  102  git checkout HEAD diff-1 mars.txt
+  103  git checkout HEAD mars.txt
+  104  cat mars.txt
+  105  git checkout HEAD-2 mars.txt
+  106  git checkout HEAD-1 mars.txt
+  107  git checkout HEAD -1 mars.txt
+  108  git checkout HEAD1 mars.txt
+  109  git checkout HEAD -1 mars.txt
+  110  git status
+  111  git checkout HEAD-1
+  112  git log
+  113  git checkout HEAD-1 mars.txt
+  114  git checkout main-1 mars.txt
+  115  git checkout HEAD-1 mars.txt
+  116  git status
+  117  git checkout HEAD-1 mars.txt
+  118  git checkout -b "jupyter"
+  119  git log
+  120  git checkout -b "master"
+  121  git log
+  122  git checkout -b "main"
+  123  git log
+  124  ls
+  125  nano .gitignore
+  126  touch spacefile.txt
+  127  touch .gitignore
+  128  nano .gitignore
+  129  nano .gitignore
+  130  ls
+  131  git status
+  132  git add .gitignore
+  133  git status
+  134  git commit -m "add gitignore"
+  135  git status
+  136  ls
+  137  cat .gitignore
+  138  tree -ad
+  139  tree -d
+  140  tree -ad
+  141  ls branches/
+  142  ls branches
+  143  git checkout HEAD-1 mars.txt
+  144  git status
+  145  git status
+  146  git log
+  147  git checkout HEAD-1 mars.txt
+  148  git checkout HEAD-1 mars.txt
+  149  git status
+  150  git checkout HEAD~1 mars.txt
+  151  ls branches/
+  152  history
+  153  git remote add origin https://github.com/Wubing-Xu/planets.git
+  154  git push orign master
+  155  git push orign main
+  156  git remote add origin https://github.com/Wubing-Xu/planets.git
+  157  git push orign master
+  158  git push origin master
+  159  git push origin master
+  160  git config credential.helper store
+  161  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
+  162  git push origin master
+  163  git pull origin master
+  164  git status
+  165  cat mars.txt
+  166  pwd
+  167  cd moons
+  168  git clone https://github.com/emilio-berti/planets.git
+  169  git log
+  170  ls
+  171  git log
+  172  ls -a
+  173  cd ..
+  174  ls -a
+  175  pwd
+  176  git status
+  177  ls
+  178  git add moons/
+  179  git status
+  180  git commit -m "moon branch"
+  181  git status
+  182  git -log
+  183  git log
+  184  git push
+  185  git push origin master
+  186  pwd
+  187  git status
+  188  ls
+  189  git status
+  190  ls -a
+  191  git checkout
+  192  git status
+  193  git log
+  194  ls branches
+  195  ls branches/
+  196  tree -ad
+  197  tree ~ad
+  198  git -ls
+  199  git ls
+  200  ls
+  201  cd moons
+  202  ls
+  203  git status
+  204  git push origin master
+  205  cd ..
+  206  git status
+  207  git status
+  208  git branch --list
+  209  git push origin jupyter
+  210  git log
+  211* git checkout 2a60240da36b0a7a8e4e98b95659cb2f526b2b3e
+  212  git log
+  213  git brach test
+  214  git branch test
+  215  git checkout -b main
+  216  git checkout main
+  217  git log
+  218  git checkout HEAN
+  219  git checkout HEAD
+  220  git log
+  221  git status
+  222  get remote get-url origin
+  223  get remote get-url origin master
+  224  git remote get-url origin master
+  225  git remote get-url origin
+  226  git branch
+  227  git log
+  228  git status
+  229  git add .gitignore moons/ planets.Rproj spacefile.txt
+  230  gti status
+  231  git status
+  232  git commit -m "before EVE"
+  233  git status
+  234  git push origin master
+  235  git push origin master
+  236  git status
+  237  git log
+  238  git checkout 2a60240da36b0a7a8e4e98b95659cb2f526b2b3e
+  239  git log
+  240  ls
+  241  ls - all
+  242  ls()
+  243  git log
+  244  git checkout HEAD
+  245  git log
+  246  git checkout test
+  247  git status
+  248  git checkout HEAD
+  249  git status
+  250  git log
+  251  git branch list
+  252  git branch -list
+  253  git branch --list
+  254  git branch ls
+  255  git branch -ls
+  256  git branch list
+  257  git branch --list
+  258  git branch -d ls
+  259  git branch -d list
+  260*
+  261*
+  262  git branch -d  main
+  263  git checkout master
+  264  git branch -d  main
+  265* git m
+  266  nano mars.txt
+  267  nano .gitignore
+  268  git status
+  269  git branch
+  270  git branch -d main
+  271  git merge main
+  272  nano .gitignore
+  273  git status
+  274  git add mars.txt .gitignore moons/planets
+  275  git add mars.txt .gitignore
+  276  git status
+  277  git add moons..
+  278  git add moons
+  279  git merge --abort
+  280  git status
+  281  git branch
+  282  git branch -d main
+  283  git branch -D main
+  284  git branch --list
+  285  git status
+  286  git add .Rhistory .Rproj.user/
+  287  git status
+  288  git commit -m "include R project"
+  289  git push master
+  290  git push remote master
+  291  git push origin master
+  292  ls
+  293  cd moons
+  294  ls
+  295  rm planets/
+  296  rm planets
+  297  git rm -r planets
+  298  ls
+  299  ls -a
+  300  git status
+  301  ..
+  302  cd ..
+  303  git status
+  304  git log --oneline
+  305  git log
+  306  git push origin main
+  307  git commit -m "remove folder"
+  308  git push origin main
+  309  git status
+  310  git pull origin master
+  311  git status
+  312  git log
+  313  git - log-5
+  314  git log-5
+  315  git log --5
+  316  git log -5
+  317  git log -1
+  318  git log -1-5
+  319  git log -1--5
+  320  git log -1 5
+  321  git log -1-5
+  322  git log -1 5
+  323  git log - 1 5
+  324  git log -1
+  325  git log -1:5
+  326  git log -n 5
+  327  git log -n 2
+  328  ls
+  329  ls -a
+  330  nano .gitignore
+  331  y
+  332  touch spacefile
+  333  nano .gitignore
+  334  y
+  335  ls
+  336  git rm spacefile
+  337  git rm --spacefile
+  338  git rm -spacefile
+  339  git ls
+  340  git ls
+  341  ls
+  342  git rm spacefile
+  343  ls
+  344  status
+  345  git status
+  346  fit rm spacefile
+  347  fit rm -r spacefile
+  348  git rm -r spacefile
+  349  git rm spacefile
+  350  ls
+  351  rm spacefile
+  352  ls
+  353  touch spacefile.txt
+  354  ls
+  355  git status
+  356  nano mars.txt
+  357  nano mars.txt
+  358  git status
+  359  nano .gitignore
+  360  git status
+  361  nano .gitignore
+  362  git status
+  363  nano .gitignore
+  364  ls
+  365  ls -a
+  366  rm .Rproj.user
+  367  git rm -r .Rproj.user
+  368  ls -a
+  369  git rm -r .Rproj.user
+  370  -f
+  371  git rm -f .Rproj.user
+  372  git rm -r .Rproj.user
+  373  git rm -r .Rproj.user -f
+  374  ls -a
+  375  git rm -r .Rproj.user
+  376  git rm -r .Rproj.user/
+  377  git status
+  378  ls
+  379  ls -a
+  380  git rm -r .Rproj.user
+  381  git rm -r .Rproj.user/
+  382  git rm -r Rproj.user/
+  383  git rm -r Rproj.user
+  384  git status
+  385  ls -a
+  386  rm .Rhistory
+  387  ls -a
+  388  git status
+  389  git -add .Rhistory .gitignore mars.txt
+  390  git add .Rhistory .gitignore mars.txt
+  391  git status
+  392  git commit -m "after clear"
+  393  git status
+  394  git status
+  395  git push origin master
+  396  ls
+  397  cd moons
+  398  touch mars_sub.txt
+  399  git status
+  400  cd ..
+  401  git status
+  402  git add moons
+  403  git status
+  404  git commit -m "add files in a folder"
+  405  git status
+  406  push origin master
+  407  git push origin master
+  408  ls
+  409  ls mmons
+  410  git log -n 5
+  411  git log --oneline
+  412  git branch --list
+  413  git checkout 7a90886 mars.txt
+  414  ls
+  415  git checkout 7a90866 mars.txt
+  416  nano mars.txt
+  417  y
+  418  git log -n 10
+  419  git log -n 3
+  420  git log --oneline
+  421  git checkout ea1a549 mars.txt
+  422  nano mars.txt
+  423  y
+  424  git checkout HEAD mars.txt
+  425  nano mars.txt
+  426  git checkout 7a90866
+  427  git branch "test2"
+  428  git log --oneline
+  429  git checkout master
+  430  git -log --oneline
+  431  git log --oneline
+  432  git branch --ls
+  433  git branch --list
+  434  git status
+  435  git checkout test2
+  436  git checkout master
+  437  git status
+  438  git checkout test2
+  439  git status
+  440  git push origin test2
+  441  git checkout master
+  442  git merge test2
+  443  git branch --list
+  444  git status
+  445  git branch -d test2
+  446  git checkout test
+  447  ls
+  448  ls -a
+  449  git checkout master
+  450  git status
+  451  git push origin test2
+  452  git push origin main
+  453  git push origin master
+  454  git checkout main
+  455  git branch --list
+  456  ls
+  457  touch a.dat b.dat c.dat results/a.out results/b.out
+  458  mkdir results
+  459  touch a.dat b.dat c.dat results/a.out results/b.out
+  460  git status
+  461  nano .gitignore
+  462  cat .gitignore
+  463  git status
+  464  cat .gitignore
+  465  git add a.dat
+  466  gti status
+  467  git status
+  468  git status --ignored
+  469  git status
+  470  git add .gitignore
+  471  git status
+  472  git commit -m "ignore data files and results folder"
+  473  git status
+  474  git clone https://github.com/emilio-berti/planets.git ~Desktop/emilio-planets
+  475  pwd
+  476  cd ..
+  477  git clone https://github.com/emilio-berti/planets.git emilio-planets
+  478  git status
+  479  cd planets
+  480  git status
+  481  cd ../emilio-planets
+  482  git status
+  483  git log
+  484  nano pluto.txt
+  485  git status
+  486  git add pluto.txt
+  487  git commit -m "Wubing changes"
+  488  git status
+  489  git push origin main
+  490  git remove -v
+  491  git remote -v
+  492  git status
+  493  history
